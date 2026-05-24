@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.frostbite.myperfectclub",
+      "sha256_cert_fingerprints": [
+        "7E:11:5B:8F:01:C5:C2:97:DC:46:78:E3:B9:D9:E8:66:72:EB:27:80:A0:BD:BA:99:F1:0C:0D:E1:32:6E:73:69"
+      ]
+    }
+  }
+]
